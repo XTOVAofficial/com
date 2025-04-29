@@ -511,7 +511,7 @@ discovary.</p>
       <h1>X-TOVA</h1>
       <p></>X-TOVA explores the unknown in air and space, innovates for the benefit of humanity, and inspires the world through discovery.</p>
     
-      <br><br><p> <br>All Pages</p>
+      <br><br><br><p>All Pages</p>
       <div class="footer-links">
         <div>
           <h2><a href="#" onclick="showPage('home')">Home</a></h2>
