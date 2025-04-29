@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -11,8 +9,8 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body, html {
       /*font-family: 'Noto Serif Bengali', serif;*/
-      background-color: #fff;
-      color: #000;
+      background-color: #000 ;
+      color: #fff ;
     }
 
     /* টপবার স্টাইল */
@@ -88,7 +86,7 @@
     
   
   /* মূল কন্টেন্ট */
-    .content { padding-top: 70px; }
+    .content { padding-top: 0px; }
 
     /* প্রতিটি পেজ */
     .page { display: none; }
@@ -141,7 +139,7 @@
     /* ক্লাইমেট পোস্ট */
     .climate-post {
       position: relative;
-      width: 90%;
+      width: 95%;
       aspect-ratio: 1.4 / 1;
       overflow: hidden;
       margin: 40px 20px;
